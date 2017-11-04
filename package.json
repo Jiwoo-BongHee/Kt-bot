@@ -1,0 +1,34 @@
+{
+  "name": "kt-bot",
+  "version": "1.0.0",
+  "description": "Bot privé KawZzeN's Team",
+  "main": "index.js",
+  "dependencies": {
+    "bufferutil": "^3.0.2",
+    "discord.js": "^11.1.0",
+    "djs-collection-persistent": "^0.1.4",
+    "eris": "^0.7.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "libsodium-wrappers": "^0.5.2",
+    "node-opus": "^0.2.6",
+    "opusscript": "^0.0.3",
+    "save": "^2.3.1",
+    "uws": "^8.14.0",
+    "ytdl": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiwoo-BongHee/Kt-bot.git"
+  },
+  "author": "Jiwoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiwoo-BongHee/Kt-bot/issues"
+  },
+  "homepage": "https://github.com/Jiwoo-BongHee/Kt-bot#readme"
+}
